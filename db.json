@@ -25,7 +25,7 @@
 	    "reservationId": "string",
 	    "reservationStatus": "RESERVED",
 	    "startDate": "2021-03-23",
-	    "totalPrice": "€ 220",
+	    "totalPrice": "€ 460",
 	    "updatedAt": "2021-03-23T17:52:02.536Z"
 	  },
 	{
@@ -39,7 +39,7 @@
 	    "reservationId": "string",
 	    "reservationStatus": "RESERVED",
 	    "startDate": "2021-03-23",
-	    "totalPrice": "€ 220",
+	    "totalPrice": "€ 1220",
 	    "updatedAt": "2021-03-23T17:52:02.536Z"
 	  }
 	]

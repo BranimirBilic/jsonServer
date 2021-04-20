@@ -55,6 +55,20 @@
 	    "startDate": "2021-03-23",
 	    "totalPrice": "€ 122000",
 	    "updatedAt": "2021-03-23T17:52:02.536Z"
+	  },
+	{
+	    "bookingCompanyId": "string",
+	    "bookingCompanyName": "Agency Riva",
+	    "canceledAt": "2021-03-23T17:52:02.536Z",
+	    "createdAt": "2021-01-23T17:52:02.536Z",
+	    "endDate": "2021-03-28",
+	    "listingId": "string",
+	    "listingName": "Cap Camarata 6.5",
+	    "reservationId": "string",
+	    "reservationStatus": "CANCELED",
+	    "startDate": "2021-03-23",
+	    "totalPrice": "€ 460",
+	    "updatedAt": "2021-03-23T17:52:02.536Z"
 	  }
 	]
 }

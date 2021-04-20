@@ -3,8 +3,8 @@
 	  {
 	    "bookingCompanyId": "string",
 	    "bookingCompanyName": "Agency Roko",
-	    "canceledAt": "2021-03-23T17:52:02.536Z",
-	    "createdAt": "2021-03-23T17:52:02.536Z",
+	    "canceledAt": "2021-04-20T17:52:02.536Z",
+	    "createdAt": "2021-04-20T17:52:02.536Z",
 	    "endDate": "2021-03-23",
 	    "listingId": "string",
 	    "listingName": "Atlantic 670 Open",
@@ -17,8 +17,8 @@
 	{
 	    "bookingCompanyId": "string",
 	    "bookingCompanyName": "Agency Riva",
-	    "canceledAt": "2021-03-23T17:52:02.536Z",
-	    "createdAt": "2021-03-23T17:52:02.536Z",
+	    "canceledAt": "2021-04-20T17:52:02.536Z",
+	    "createdAt": "2021-04-20T17:52:02.536Z",
 	    "endDate": "2021-03-28",
 	    "listingId": "string",
 	    "listingName": "Cap Camarata 6.5",
@@ -31,8 +31,8 @@
 	{
 	    "bookingCompanyId": "string",
 	    "bookingCompanyName": "Agency Roko",
-	    "canceledAt": "2021-03-23T17:52:02.536Z",
-	    "createdAt": "2021-03-23T17:52:02.536Z",
+	    "canceledAt": "2021-04-19T17:52:02.536Z",
+	    "createdAt": "2021-04-19T17:52:02.536Z",
 	    "endDate": "2021-04-23",
 	    "listingId": "string",
 	    "listingName": "Maestral 600",
@@ -45,8 +45,8 @@
 	{
 	    "bookingCompanyId": "string",
 	    "bookingCompanyName": "Agency Roko",
-	    "canceledAt": "2021-03-23T17:52:02.536Z",
-	    "createdAt": "2021-03-23T17:52:02.536Z",
+	    "canceledAt": "2021-04-19T17:52:02.536Z",
+	    "createdAt": "2021-04-19T17:52:02.536Z",
 	    "endDate": "2021-04-23",
 	    "listingId": "string",
 	    "listingName": "Maestral 600",
@@ -59,8 +59,8 @@
 	{
 	    "bookingCompanyId": "string",
 	    "bookingCompanyName": "Agency Riva",
-	    "canceledAt": "2021-03-23T17:52:02.536Z",
-	    "createdAt": "2021-01-23T17:52:02.536Z",
+	    "canceledAt": "2021-04-18T17:52:02.536Z",
+	    "createdAt": "2021-04-18T17:52:02.536Z",
 	    "endDate": "2021-03-28",
 	    "listingId": "string",
 	    "listingName": "Cap Camarata 6.5",
@@ -69,6 +69,77 @@
 	    "startDate": "2021-03-23",
 	    "totalPrice": "€ 460",
 	    "updatedAt": "2021-03-23T17:52:02.536Z"
-	  }
+	  },
+	{
+	    "bookingCompanyId": "string",
+	    "bookingCompanyName": "Agency Riva",
+	    "canceledAt": "2021-04-18T17:52:02.536Z",
+	    "createdAt": "2021-04-18T17:52:02.536Z",
+	    "endDate": "2021-03-28",
+	    "listingId": "string",
+	    "listingName": "HM Fly 22",
+	    "reservationId": "string",
+	    "reservationStatus": "RESERVED",
+	    "startDate": "2021-03-23",
+	    "totalPrice": "€ 460",
+	    "updatedAt": "2021-03-23T17:52:02.536Z"
+	  },
+	{
+	    "bookingCompanyId": "string",
+	    "bookingCompanyName": "Agency Riva",
+	    "canceledAt": "2021-04-18T17:52:02.536Z",
+	    "createdAt": "2021-04-18T17:52:02.536Z",
+	    "endDate": "2021-03-28",
+	    "listingId": "string",
+	    "listingName": "Quicksilver Activ 555",
+	    "reservationId": "string",
+	    "reservationStatus": "CANCELED",
+	    "startDate": "2021-03-23",
+	    "totalPrice": "€ 460",
+	    "updatedAt": "2021-03-23T17:52:02.536Z"
+	  },
+	{
+	    "bookingCompanyId": "string",
+	    "bookingCompanyName": "Agency Riva",
+	    "canceledAt": "2021-04-17T17:52:02.536Z",
+	    "createdAt": "2021-04-17T17:52:02.536Z",
+	    "endDate": "2021-03-28",
+	    "listingId": "string",
+	    "listingName": "Quicksilver Activ 605 sundeck",
+	    "reservationId": "string",
+	    "reservationStatus": "RESERVED",
+	    "startDate": "2021-03-23",
+	    "totalPrice": "€ 460",
+	    "updatedAt": "2021-03-23T17:52:02.536Z"
+	  },
+	{
+	    "bookingCompanyId": "string",
+	    "bookingCompanyName": "Agency Riva",
+	    "canceledAt": "2021-04-17T17:52:02.536Z",
+	    "createdAt": "2021-04-17T17:52:02.536Z",
+	    "endDate": "2021-03-28",
+	    "listingId": "string",
+	    "listingName": "Maestral 560",
+	    "reservationId": "string",
+	    "reservationStatus": "CANCELED",
+	    "startDate": "2021-03-23",
+	    "totalPrice": "€ 460",
+	    "updatedAt": "2021-03-23T17:52:02.536Z"
+	  },
+	{
+	    "bookingCompanyId": "string",
+	    "bookingCompanyName": "Agency Riva",
+	    "canceledAt": "2021-04-16T17:52:02.536Z",
+	    "createdAt": "2021-04-16T17:52:02.536Z",
+	    "endDate": "2021-03-28",
+	    "listingId": "string",
+	    "listingName": "Cap Camarata 6.5",
+	    "reservationId": "string",
+	    "reservationStatus": "RESERVED",
+	    "startDate": "2021-03-23",
+	    "totalPrice": "€ 460",
+	    "updatedAt": "2021-03-23T17:52:02.536Z"
+	  },
+	
 	]
 }
